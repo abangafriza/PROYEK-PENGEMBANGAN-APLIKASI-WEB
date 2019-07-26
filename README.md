@@ -1,6 +1,4 @@
-# CANNOT SEE FROM THIS USER
-# PRIVATE FILES 
-# By
+# PRIVATE FILES By
 
       .o.       oooooooooooo ooooooooo.   ooooo  oooooooooooo       .o.       
      .888.      `888'     `8 `888   `Y88. `888' d'""""""d888'      .888.      
